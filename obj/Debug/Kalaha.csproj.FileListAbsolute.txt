@@ -10,3 +10,6 @@ C:\Users\Sigmar\Dropbox\Semestr VI\Artificial Intelligence\Lab3 Game\Kalaha\obj\
 C:\Users\Sigmar\Dropbox\Semestr VI\Artificial Intelligence\Lab3 Game\Kalaha\bin\Debug\Bantumi.exe
 C:\Users\Sigmar\Dropbox\Semestr VI\Artificial Intelligence\Lab3 Game\Kalaha\bin\Debug\Bantumi.pdb
 C:\Users\Sigmar\Dropbox\Semestr VI\Artificial Intelligence\Lab3 Game\Kalaha\obj\Debug\Kalaha.csprojResolveAssemblyReference.cache
+C:\Users\ggsig\Documents\Repozytoria GIT\Kalaha\bin\Debug\Bantumi.exe.config
+C:\Users\ggsig\Documents\Repozytoria GIT\Kalaha\obj\Debug\Bantumi.exe
+C:\Users\ggsig\Documents\Repozytoria GIT\Kalaha\obj\Debug\Bantumi.pdb

@@ -10,7 +10,7 @@ namespace Bantumi
         public Pot Player2BasePot;
         public Pot[] Player1Pots = new Pot[6];
         public Pot[] Player2Pots = new Pot[6];
-        public const int startingBeans = 6;
+        public const int StartingBeans = 6;
 
         public Board()
         {
@@ -19,8 +19,8 @@ namespace Bantumi
 
             for (int i = 0; i < 6; i++)
             {
-                Player1Pots[i] = new Pot(startingBeans);
-                Player2Pots[i] = new Pot(startingBeans);
+                Player1Pots[i] = new Pot(StartingBeans);
+                Player2Pots[i] = new Pot(StartingBeans);
             }
         }
 
@@ -190,13 +190,11 @@ namespace Bantumi
         public bool isOver()
         {
             
-            var sum1 = Player1Pots.Sum(pot => pot.beanCount);  // linq i delta expressions! yay, education!
+            var sum1 = Player1Pots.Sum(pot => pot.beanCount);
             var sum2 = Player2Pots.Sum(pot => pot.beanCount);
 
             return sum1 == 0 | sum2 == 0;
         }
-
-        // EVALUATION FUNCTIONS HERE
 
         public int CalculateScore(bool player)
         {
@@ -316,8 +314,6 @@ namespace Bantumi
             return false; // nie ma dodatkowego ruchu :(
         }
 
-        // MIN-MAX HERE
-
         public int SeekAndDestroy(Board oldBoard, int depth, bool max, int move, int alpha, int beta)
         {
             Board board = new Board(oldBoard);
@@ -331,7 +327,6 @@ namespace Bantumi
 
             if (depth == 0)
             {
-                // MOGE WYBRAC TUTAJ RODZAJ EVALUATION FUNCTION
                 var score = board.CalculateScore(false); // bez tego komp musial miec ujemny score zeby wygrac
                 return score;
             }
