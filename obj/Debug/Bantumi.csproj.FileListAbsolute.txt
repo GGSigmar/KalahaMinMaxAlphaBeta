@@ -1,0 +1,18 @@
+C:\Users\amade\OneDrive\Documents\Visual Studio 2015\Projects\xd\ConsoleApplication2\ConsoleApplication2\bin\Debug\Bantumi.exe.config
+C:\Users\amade\OneDrive\Documents\Visual Studio 2015\Projects\xd\ConsoleApplication2\ConsoleApplication2\bin\Debug\Bantumi.exe
+C:\Users\amade\OneDrive\Documents\Visual Studio 2015\Projects\xd\ConsoleApplication2\ConsoleApplication2\bin\Debug\Bantumi.pdb
+C:\Users\amade\OneDrive\Documents\Visual Studio 2015\Projects\xd\ConsoleApplication2\ConsoleApplication2\obj\Debug\Bantumi.csprojResolveAssemblyReference.cache
+C:\Users\amade\OneDrive\Documents\Visual Studio 2015\Projects\xd\ConsoleApplication2\ConsoleApplication2\obj\Debug\Bantumi.exe
+C:\Users\amade\OneDrive\Documents\Visual Studio 2015\Projects\xd\ConsoleApplication2\ConsoleApplication2\obj\Debug\Bantumi.pdb
+C:\Users\ggsig\Documents\Visual Studio 2015\Projects\Kalaha\bin\Debug\Bantumi.exe.config
+C:\Users\ggsig\Documents\Visual Studio 2015\Projects\Kalaha\obj\Debug\Bantumi.exe
+C:\Users\ggsig\Documents\Visual Studio 2015\Projects\Kalaha\obj\Debug\Bantumi.pdb
+C:\Users\ggsig\Documents\Visual Studio 2015\Projects\Kalaha\bin\Debug\Bantumi.exe
+C:\Users\ggsig\Documents\Visual Studio 2015\Projects\Kalaha\bin\Debug\Bantumi.pdb
+C:\Users\ggsig\Documents\Visual Studio 2015\Projects\Kalaha\obj\Debug\Bantumi.csprojResolveAssemblyReference.cache
+C:\Users\ggsig\Dropbox\Semestr VI\Artificial Intelligence\Lab3 Game\Kalaha\bin\Debug\Bantumi.exe.config
+C:\Users\ggsig\Dropbox\Semestr VI\Artificial Intelligence\Lab3 Game\Kalaha\obj\Debug\Bantumi.exe
+C:\Users\ggsig\Dropbox\Semestr VI\Artificial Intelligence\Lab3 Game\Kalaha\obj\Debug\Bantumi.pdb
+C:\Users\ggsig\Dropbox\Semestr VI\Artificial Intelligence\Lab3 Game\Kalaha\bin\Debug\Bantumi.exe
+C:\Users\ggsig\Dropbox\Semestr VI\Artificial Intelligence\Lab3 Game\Kalaha\bin\Debug\Bantumi.pdb
+C:\Users\ggsig\Dropbox\Semestr VI\Artificial Intelligence\Lab3 Game\Kalaha\obj\Debug\Bantumi.csprojResolveAssemblyReference.cache
